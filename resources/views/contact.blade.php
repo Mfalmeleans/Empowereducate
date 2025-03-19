@@ -37,4 +37,8 @@
     </footer>
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> d511d87c066948865308bff0c864270aefb7d31f
